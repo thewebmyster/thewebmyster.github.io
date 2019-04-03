@@ -9,8 +9,8 @@ weatherObject.onload = function() {
     document.getElementById('currentTemp').innerHTML=weatherInfo.main.temp;
     document.getElementById('windSpeed').innerHTML=weatherInfo.wind.speed;
     const iconcode=weatherInfo.weather[0].icon;
-    
     const icon_path = "//openweathermap.org/img/w/" + iconcode + ".png";
-    console.log(icon_path);
+    document.getElementById('weather_icon').src= icon_path;
+   
 
 } //end of the onload function
