@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node2" apprev="17856" appversion="6.1.1">
+  <panorama id="node1">
+    <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2737" leveltilesize="510" levelingpitch="0" height="2737" levelbiashidpi="1.000" levelbias="0.400" levelingroll="0">
+      <level preload="0" predecode="0" width="2737" height="2737"/>
+      <level preload="0" predecode="0" width="1368" height="1368"/>
+      <level preload="0" predecode="0" width="684" height="684"/>
+      <level preload="1" predecode="1" width="342" height="342"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="270" scaletofit="1" pan="360" tilt="90" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata description="" customnodeid="" datetime="2012:06:06 22:07:00" latitude="" source="" info="" comment="" longitude="" nodeid="node1" title="Kitchen" copyright="" tags="Kitchen" author=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label background="1" width="180" bordercolor="0x000000" backgroundalpha="1" border="1" height="20" borderradius="1" textcolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot description="" id="Point01" skinid="ht_node" target="-7.3/-10.2/70.0" pan="-287.2" tilt="-0.91" title="" url="{node2}"/>
+      <hotspot description="" id="Point02" skinid="ht_node" target="111.3/-6.3/70.0" pan="-219.14" tilt="-2.9" title="To Back Porch" url="{node3}"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" blendtime="1" softedge="0" zoomin="0" type="crossdissolve" zoomfov="20" blendcolor="0x000000" zoomspeed="2" enabled="1" zoomoutpause="1"/>
+    <autorotate delay="5.00" nodedelay="0.00" speed="0.050" noderandom="1" nodefilter="" startloaded="0" useanimation="0" returntohorizon="0.000" enabled="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedmouse="0" sensitivity="8" invertwheel="0" contextfullscreen="1" lockedkeyboard="0" speedwheel="1" simulatemass="1" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2739" leveltilesize="510" levelingpitch="0" height="2739" levelbiashidpi="1.000" levelbias="0.400" levelingroll="0">
+      <level preload="0" predecode="0" width="2739" height="2739"/>
+      <level preload="0" predecode="0" width="1369" height="1369"/>
+      <level preload="0" predecode="0" width="684" height="684"/>
+      <level preload="1" predecode="1" width="342" height="342"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="109.66" tilt="-2.58754" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="270" scaletofit="1" pan="360" tilt="90" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata description="" customnodeid="" datetime="2012:06:06 22:02:23" latitude="" source="" info="" comment="" longitude="" nodeid="node2" title="Family Room" copyright="" tags="Family" author=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label background="1" width="180" bordercolor="0x000000" backgroundalpha="1" border="1" height="20" borderradius="1" textcolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot description="" id="Point01" skinid="ht_node" target="-131.4/-5.9/70.0" pan="-188.23" tilt="-0.12" title="To Kitchen" url="{node1}"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" blendtime="1" softedge="0" zoomin="0" type="crossdissolve" zoomfov="20" blendcolor="0x000000" zoomspeed="2" enabled="1" zoomoutpause="1"/>
+    <autorotate delay="5.00" nodedelay="0.00" speed="0.050" noderandom="1" nodefilter="" startloaded="0" useanimation="0" returntohorizon="0.000" enabled="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedmouse="0" sensitivity="8" invertwheel="0" contextfullscreen="1" lockedkeyboard="0" speedwheel="1" simulatemass="1" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2738" leveltilesize="510" levelingpitch="0" height="2738" levelbiashidpi="1.000" levelbias="0.400" levelingroll="0">
+      <level preload="0" predecode="0" width="2738" height="2738"/>
+      <level preload="0" predecode="0" width="1369" height="1369"/>
+      <level preload="0" predecode="0" width="684" height="684"/>
+      <level preload="1" predecode="1" width="342" height="342"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="270" scaletofit="1" pan="360" tilt="90" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata description="" customnodeid="" datetime="2012:06:06 17:55:58" latitude="" source="" info="" comment="" longitude="" nodeid="node3" title="Back Porch" copyright="" tags="BackPorch" author=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label background="1" width="180" bordercolor="0x000000" backgroundalpha="1" border="1" height="20" borderradius="1" textcolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot description="" id="Point01" skinid="ht_node" target="-17.7/-2.6/70.0" pan="-49.7" tilt="-1.21" title="" url="{node1}"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" blendtime="1" softedge="0" zoomin="0" type="crossdissolve" zoomfov="20" blendcolor="0x000000" zoomspeed="2" enabled="1" zoomoutpause="1"/>
+    <autorotate delay="5.00" nodedelay="0.00" speed="0.050" noderandom="1" nodefilter="" startloaded="0" useanimation="0" returntohorizon="0.000" enabled="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedmouse="0" sensitivity="8" invertwheel="0" contextfullscreen="1" lockedkeyboard="0" speedwheel="1" simulatemass="1" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <masternode>
+    <userdata description="" customnodeid="" datetime="" latitude="" source="" info="" comment="" longitude="" nodeid="master" title="" copyright="" tags="" author=""/>
+  </masternode>
+</tour>
